@@ -1,0 +1,3 @@
+/Users/danil/Desktop/OOP/laba_1/CMakeFiles/rebuild_cache.dir
+/Users/danil/Desktop/OOP/laba_1/CMakeFiles/edit_cache.dir
+/Users/danil/Desktop/OOP/laba_1/CMakeFiles/oop_exercise_01.dir
